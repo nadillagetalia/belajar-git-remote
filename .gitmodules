@@ -1,0 +1,6 @@
+[submodule "belajar-git-submodule"]
+	path = belajar-git-submodule
+	url = git@github.com:nadillagetalia/belajar-git-submodule.git
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:nadillagetalia/belajar-git-submodule.git
